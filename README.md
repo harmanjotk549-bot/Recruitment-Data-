@@ -7,6 +7,7 @@ This project focuses on building an automated recruitment screening system that 
 The system generates a structured output file (recruitment_screening_output.csv) that helps recruiters quickly identify the most suitable candidates, improving efficiency and decision-making in the hiring process.
 
 Objectives
+
 Automate the candidate screening process
 Reduce manual effort in resume evaluation
 Provide data-driven candidate ranking
