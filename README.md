@@ -41,11 +41,16 @@ Pandas
 
 # CSV Data Handling
 Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/recruitment-screening.git
+
 cd recruitment-screening
+
 2️⃣ Install Dependencies
+
 pip install pandas
+
 3️⃣ Run the Code
 import pandas as pd
 
