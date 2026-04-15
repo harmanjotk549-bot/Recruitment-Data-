@@ -1,7 +1,8 @@
 # Recruitment Screening Output
 Overview
 
-This file contains the output of an automated recruitment screening system. It is designed to evaluate and filter candidates based on predefined criteria such as skills, experience, and other relevant attributes.
+This file contains the output of an automated recruitment screening system. 
+It is designed to evaluate and filter candidates based on predefined criteria such as skills, experience, and other relevant attributes.
 
 The dataset helps recruiters quickly identify suitable candidates and make data-driven hiring decisions.
 
